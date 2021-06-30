@@ -1,0 +1,9 @@
+#ページ
+get http://localhost:3000/ HTTP/1.1
+
+###
+
+#Hello APIのテスト
+get http://localhost:3000/api/hello HTTP/1.1
+
+###
